@@ -1,4 +1,4 @@
-### Figure S6: belief formation
+### Figure S2: belief formation
 
 ### we need the round-wise data to make the graphs
 b<-read.table('BEAST_data.txt', sep='\t', header=TRUE)
