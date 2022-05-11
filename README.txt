@@ -8,6 +8,6 @@ All experimental code is available in editable versions on the LIONESS Lab platf
 
 All R scripts are extensively commented. To run them, please save all above scripts in the same folder. Scripts with names starting with “Fig” produce the corresponding Figures as shown in the main text and in the Supplementary Information. The file niceHistograms.r defines coloured histograms used for Fig. S6. 
 
-The file “Statistical analysis (Tables S1-5).r” gathers all statistical analyses reported in the paper, and produces a txt version of Table S1 and HTML versions of Tables S2-5.
+The file “Statistical analysis (Tables).r” gathers all statistical analyses reported in the paper, and produces a txt version of Table S1 and HTML versions of Tables S2-5.
 
 For any further questions, please contact Lucas Molleman (l.s.molleman@uva.nl or lucasmolleman@gmail.com).
